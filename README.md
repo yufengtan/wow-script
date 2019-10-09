@@ -1,3 +1,2 @@
 # wow-script
-# wow-script
-# wow-script
+## world of warcraft script
